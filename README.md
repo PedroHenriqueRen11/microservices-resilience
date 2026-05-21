@@ -42,6 +42,7 @@ Execute os serviços no terminal usando o comando abaixo na seguinte ordem:
 
 ```bash
 ./mvnw spring-boot:run -Dmaven.test.skip=true
+```
 
 Links para Validação da IA
 Eureka Dashboard: http://localhost:8761
